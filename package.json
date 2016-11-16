@@ -1,6 +1,6 @@
 {
-  "name": "vue-3d-picker",
-  "version": "1.0.8",
+  "name": "vue-3d-picker-zeb",
+  "version": "1.0.0",
   "description": "The picker component based on vue.js.",
   "main": "src/index.js",
   "scripts": {
@@ -11,19 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiecg/vue-picker.git"
+    "url": "git+https://github.com/haiyangJ/vue-picker-zeb.git"
   },
   "keywords": [
     "vue",
     "picker",
     "vue-picker"
   ],
-  "author": "xiecg",
+  "author": "jiangfen701,haiyang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xiecg/vue-picker/issues"
-  },
-  "homepage": "https://github.com/xiecg/vue-picker#readme",
-  "_from": "vue-3d-picker@1.0.8",
-  "_resolved": "http://registry.npm.taobao.org/vue-3d-picker/download/vue-3d-picker-1.0.8.tgz"
+    "url": ""
+  }
 }
